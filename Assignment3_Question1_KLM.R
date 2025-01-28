@@ -1,7 +1,3 @@
-#21:219:220 Fundamentals of Data Visualization, Spring 2021
-#Assignment 3 - Question 1
-#Kobe Lee Martinez, RUID: 202006380
-
 #Does the wage gap between men and women employees at hire improve in 1977?
 
 #1.1
