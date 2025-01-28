@@ -1,6 +1,6 @@
 # Salary, Income, and Activity Data Analysis
 
-This repository contains three R scripts focused on analyzing and visualizing data related to salaries, household incomes, and activity trends. Each script generates insightful visualizations, computes key statistics, and processes datasets to uncover meaningful patterns.
+This project delves into three fascinating areas of data analysis: uncovering salary disparities, exploring household income trends, and tracking activity patterns over time. Through powerful visualizations and statistical methods, these scripts transform raw data into compelling stories. Whether it’s revealing gender-based wage gaps, illustrating how income varies across age groups, or mapping time-based activity behaviors, each analysis is crafted to highlight meaningful insights. With a blend of histograms, box plots, and scatter plots enriched by error bars and custom styling, this project provides a fresh perspective on the dynamics of salary equity, economic trends, and human activity.
 
 
 ## Table of Contents
